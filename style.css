@@ -1,0 +1,16 @@
+.head{
+    color: rgb(36, 124, 117);
+}
+.head .lnct{
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+}
+.hello{
+    color: rgb(114, 114, 113);
+}
+.yes{
+    color: rgb(95, 131, 131);
+}
+.yes .u{
+    color: black;
+}
